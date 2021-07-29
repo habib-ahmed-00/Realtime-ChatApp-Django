@@ -3,4 +3,4 @@ from .models import Room, Messages
 
 # Register your models here.
 admin.site.register(Room)
-admin.site.register(MEssages)
+admin.site.register(Messages)

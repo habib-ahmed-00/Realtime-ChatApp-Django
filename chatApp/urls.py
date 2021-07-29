@@ -5,4 +5,5 @@ urlpatterns = [
     path('', views.home),
     path('<str:room>/' , views.room),
     path('checkview' , views.checkview),
+    path('send' , views.send)
 ]
