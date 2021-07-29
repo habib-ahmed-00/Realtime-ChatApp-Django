@@ -6,7 +6,7 @@ This app has a full CRUD functions with database (mySQLite3) and Ajax(Js)
 
 ## Getting Started
 
-### Dependencies
+### OS
 
 * ex. Windows 10 | Mac OSX
 
